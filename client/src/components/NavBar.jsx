@@ -49,7 +49,7 @@ export const NavBar = ({ photoPerson }) => {
 		<div className="md:flex md:flex-row md:justify-between md:items-center md:pt-4 md:px-10 md:bg-white md:sticky md:top-0 md:z-50 flex flex-col pb-2 ">
 			<Link to="/" style={{ cursor: "pointer" }} onClick={handleReloadHomePage}>
 				<div className="flex flex-row items-center cursor-pointer">
-					<img src={logo} alt="Logo" className="mx-auto p-3 md:mx-0" />
+					{/* <img src={logo} alt="Logo" className="mx-auto p-3 md:mx-0" /> */}
 				</div>
 				{/* <LogoResponsive src={logosintexto} alt="New Logo" className="new-logo" /> */}
 			</Link>
@@ -95,7 +95,7 @@ export const NavBar = ({ photoPerson }) => {
 							className="whitespace-nowrap m-0 md:text-sm text-md font-medium leading-22 text-lg"
 							onClick={publicationAirbnb}
 						>
-							Poné tu Airbnb
+							Poné tu Nueva pagina
 						</p>
 					</Link>
 					{/* <img src={idioma} alt="Idioma Icon" /> */}
