@@ -21,7 +21,7 @@ export const AccessPage2 = () => {
 				</header>
 				<hr />
 
-				<p className="text-xl font-bold ml-5 my-5">Welcom to Airbnb</p>
+				<p className="text-xl font-bold ml-5 my-5">Welcom to StayNjoy</p>
 
 				<form className="p-2 mx-auto">
 					<input

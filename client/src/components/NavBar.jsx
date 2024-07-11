@@ -1,7 +1,8 @@
 import { Link, useNavigate } from "react-router-dom";
 import React, { useState } from "react";
 import styled from "styled-components";
-import logo from "../assets/images/airbnblogo.png";
+import logo from "../assets/images/logo2.png";
+import logo3 from "../assets/images/logo3.png";
 import search from "../assets/images/search.png";
 import idioma from "../assets/images/idioma.png";
 import searchmovil from "../assets/images/searchmovil.png";
@@ -49,7 +50,7 @@ export const NavBar = ({ photoPerson }) => {
 		<div className="md:flex md:flex-row md:justify-between md:items-center md:pt-4 md:px-10 md:bg-white md:sticky md:top-0 md:z-50 flex flex-col pb-2 ">
 			<Link to="/" style={{ cursor: "pointer" }} onClick={handleReloadHomePage}>
 				<div className="flex flex-row items-center cursor-pointer">
-					{/* <img src={logo} alt="Logo" className="mx-auto p-3 md:mx-0" /> */}
+					<img src={logo} alt="Logo" className="mx-auto p-2 md:mx-0 md:h-[auto] md:w-[250px]" />
 				</div>
 				{/* <LogoResponsive src={logosintexto} alt="New Logo" className="new-logo" /> */}
 			</Link>
@@ -91,14 +92,15 @@ export const NavBar = ({ photoPerson }) => {
 			<div className=" flex flex-row items-center md:justify-center justify-between px-2 mx:px-0 md:p-3 py-4 gap-2 order-1 md:order-2">
 				<div className="flex items-center justify-between  w-[150px]">
 					<Link to="/tuairbnb">
-						<p
-							className="whitespace-nowrap m-0 md:text-sm text-md font-medium leading-22 text-lg"
+						{/* <p
+							className="whitespace-nowrap  m-0 md:text-md  text-blue-700  leading-2 "
 							onClick={publicationAirbnb}
 						>
-							Poné tu Nueva pagina
-						</p>
+							Tu lugar para alquilar
+						</p> */}
+
 					</Link>
-					{/* <img src={idioma} alt="Idioma Icon" /> */}
+					<img src={idioma} alt="Idioma Icon" />
 				</div>
 
 				<BottonMenu photoPerson={user ? user.photoURL : photoPerson} />

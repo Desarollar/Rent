@@ -65,7 +65,7 @@ export const AccessPage3 = () => {
 				</div>
 
 				<p className="text-xs mt-4">
-					By selecting Agree and continue, I gree tp Airbnb´s{" "}
+					By selecting Agree and continue, I gree tp StayNjoy´s{" "}
 					<a href="#" className="text-blue-500 hover:underline">
 						Terms of Service, Payments Terms of Service and Nondiscrimination Policy
 					</a>

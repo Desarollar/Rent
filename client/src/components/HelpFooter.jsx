@@ -19,7 +19,7 @@ function HelpFooter() {
 				<div className="flex-1 p-4">
 					<h3 className="font-semibold mb-3">Como ser Anfitrión</h3>
 					<ul className="list-none pl-0">
-						<li className="mb-3">Poné tu Airbnb</li>
+						<li className="mb-3">Poné tu StayNjoy</li>
 						<li className="mb-3">AirCover para anfitriones</li>
 						<li className="mb-3">Recursos para anfitriones</li>
 						<li className="mb-3">Foro de la comunidad</li>
@@ -27,13 +27,13 @@ function HelpFooter() {
 					</ul>
 				</div>
 				<div className="flex-1 p-4">
-					<h3 className="font-semibold mb-3">Airbnb</h3>
+					<h3 className="font-semibold mb-3">StayNjoy</h3>
 					<ul className="list-none pl-0">
 						<li className="mb-3">Noticias</li>
 						<li className="mb-3">Funciones nuevas</li>
 						<li className="mb-3">Empleo</li>
 						<li className="mb-3">Inversionitas</li>
-						<li className="mb-3">Estadías en Airbnb.org</li>
+						<li className="mb-3">Estadías en StayNjoy.org</li>
 					</ul>
 				</div>
 			</div>

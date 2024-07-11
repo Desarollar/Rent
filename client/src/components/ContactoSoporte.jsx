@@ -72,7 +72,7 @@ const ContactoSoporte = () => {
           <h1 className="text-2xl font-bold">Centro de ayuda</h1>
         </div>
         <form className="flex flex-col custom-width-min" onSubmit={handleSubmit}>
-          <h1 className="text-3xl font-bold mb-7 mt-7">Ponte en contacto con Airbnb</h1>
+          <h1 className="text-3xl font-bold mb-7 mt-7">Ponte en contacto con StayNjoy</h1>
           <label className="text-gray-900 text-lg pb-2" htmlFor="name">
             Nombre
           </label>

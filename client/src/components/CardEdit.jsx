@@ -110,7 +110,7 @@ export const CardEdit = ({ publication }) => {
 								{/* body */}
 								<div className="relative p-6 flex-auto">
 									<p className="my-4 text-blueGray-500 text-lg leading-relaxed">
-										Está a punto de eliminar su publicación de Airbnb, esta acción no se podrá
+										Está a punto de eliminar su publicación de StayNjoy, esta acción no se podrá
 										deshacer, por eso le solicitamos que esté seguro de la eliminación. Recuerde que
 										si tiene reservas pendientes, la eliminación no se puede realizar. En ese caso
 										debe pausar la publicación.

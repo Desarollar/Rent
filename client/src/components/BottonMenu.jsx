@@ -97,7 +97,7 @@ const Component = ({ photoPerson }) => {
 								</Link>
 								<Link to="/tuairbnb" className="mb-2">
 									<p className="flex whitespace-nowrap m-0 text-base cursor-pointer hover:opacity-70">
-										Poné tu Airbnb
+										Poné tu StayNjoy
 									</p>
 								</Link>
 								<Link to="/team" className="mb-2">

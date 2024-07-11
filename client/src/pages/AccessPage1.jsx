@@ -32,7 +32,7 @@ export const AccessPage1 = () => {
 				</header>
 				<hr />
 
-				<p className="text-2xl md:text-1xl font-bold ml-5 m-5">Welcom to Airbnb</p>
+				<p className="text-2xl md:text-1xl font-bold ml-5 m-5">Welcom to StayNjoy</p>
 
 				<form className="p-2 mx-auto">
 					<div className="flex flex-col w-full ">

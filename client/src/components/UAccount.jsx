@@ -205,7 +205,7 @@ function UAccount() {
 					<p className="text-xl pt-5">Visitá el centro de ayuda</p>
 					<p className="text-xl pt-5">Ayuda con problemas de seguridad</p>
 					<p className="text-xl pt-5">Problemas en tu barrio?</p>
-					<p className="text-xl py-5">Cómo funciona Airbnb</p>
+					<p className="text-xl py-5">Cómo funciona StayNjoy</p>
 				</div>
 
 				<div className="flex py-5">
@@ -220,7 +220,7 @@ function UAccount() {
 						Ayuda y asistencia • Términos del servicio • Política de privacidad
 					</div>
 					<div className="flex justify-center text-xs text-stone-600">
-						© 2023 Airbnb, Inc. Todos los derechos resservados.
+						© 2023 StayNjoy, Inc. Todos los derechos resservados.
 					</div>
 				</div>
 			</div>
