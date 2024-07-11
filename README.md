@@ -1,4 +1,4 @@
-<img align="center" width="100%"  height="300px" src="https://logodownload.org/wp-content/uploads/2016/10/airbnb-logo-0.png">
+<img align="center" width="100%"   src="https://logodownload.org/wp-content/uploads/2016/10/airbnb-logo-0.png">
 
 <h4>El proyecto "Clone Airbnb" fue diseñado para crear una plataforma digital dedicada a la oferta de alojamientos a particulares y turísticos (alquiler vacacional) 🏝 🏕 🌎. En esta plataforma, los anfitriones pueden publicitar y contratar el arriendo de sus propiedades con sus huéspedes 🏘.</h4>
 
